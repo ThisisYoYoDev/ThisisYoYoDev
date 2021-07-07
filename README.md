@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisisYoYoDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisisYoYoDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisYoYoDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisYoYoDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <p>
 <img alt="C" src="https://img.shields.io/badge/-C-7f8c8d?style=flat-square&logo=c&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3498db?style=flat-square&logo=python&logoColor=white" />
