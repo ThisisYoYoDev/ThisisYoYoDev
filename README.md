@@ -1,11 +1,21 @@
-[![Yoel GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisisYoYoDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# Yoel Edery
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisYoYoDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p>
-<img alt="C" src="https://img.shields.io/badge/-C-7f8c8d?style=flat-square&logo=c&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3498db?style=flat-square&logo=python&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
+<h1 align='center'>
+  Hi there</br>I am YoYoDev and nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</h1>
+
+<p align='center'>
+  <a href="https://github.com/ThisisYoYoDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+science+student+in+Paris;Currently+learning+the+world+of+AI" alt="Typing SVG" /></a>
 </p>
 
-### Contact me
-[![Mail](https://img.shields.io/badge/Mail-admin@yoel.pro-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:admin@yoel.pro)
+<p align='center'>
+  <a href="https://github.com/ThisisYoYoDev"><img src="https://github-readme-stats.vercel.app/api?username=ThisisYoYoDev&amp;theme=tokyonight" alt="Yoel GitHub stats">
+  </a>
+</p>
+
+<h3 id="contact-me">Contact me</h3>
+<p align='center'>
+  <a href="mailto:admin@yoel.pro">
+    <img src="https://img.shields.io/badge/Mail-admin@yoel.pro-yellowgreen?style=for-the-badge&amp;logo=Mail.Ru&amp;logoColor=white" alt="Mail">
+  </a>
+</p>
