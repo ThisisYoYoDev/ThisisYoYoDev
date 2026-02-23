@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <a href="https://github.com/ThisisYoYoDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+science+student+in+Paris;Currently+learning+the+world+of+AI" alt="Typing SVG" /></a>
+  <a href="https://github.com/ThisisYoYoDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Currently+learning+the+world+of+AI" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>
