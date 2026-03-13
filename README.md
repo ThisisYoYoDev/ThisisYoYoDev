@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-edery-957117210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yoel.edery08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.limova.ai"><img src="https://img.shields.io/badge/Limova.ai-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Limova.ai"></a>
+  <a href="https://www.limova.ai"><img src="https://img.shields.io/badge/Limova.ai-1A1A2E?style=for-the-badge&logo=rocket&logoColor=white" alt="Limova.ai"></a>
 </p>
 
 ---
@@ -62,13 +62,3 @@ Previously worked at **Gladia** (AI speech-to-text) and **DataGoV** (cloud data 
 - Multi-channel communication: **WhatsApp Business API**, **Twilio** voice calls, **ElevenLabs TTS**, embeddable chatbots
 - Extensible Power-Ups system for custom integrations & AI-powered content generation
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisisYoYoDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisYoYoDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisisYoYoDev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</p>
